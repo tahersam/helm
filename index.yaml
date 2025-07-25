@@ -3,10 +3,10 @@ entries:
   devops_learning:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-07-25T21:20:17.9835454+05:30"
-    digest: b340050b4adc6530a1dcabe416c5d93d45e57e3b314ec5ecd4464cd317264baf
+    created: "2025-07-25T21:24:25.5075329+05:30"
+    digest: 5c205163f129cf5d960bfe296406c8268ce8c66a8ba6ec9a06b3ed7a0b6f6e7c
     name: devops_learning
     urls:
     - devops_learning-0.0.1.tgz
     version: 0.0.1
-generated: "2025-07-25T21:20:17.9739172+05:30"
+generated: "2025-07-25T21:24:25.505186+05:30"
